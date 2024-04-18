@@ -20,5 +20,5 @@ Place the dataset in the  "datasets" folder and name it "1_SEGMENTATION"
 Output Zip file with generated results
 
 ```bash
-  DSBA_G1_OUTPUT.zip
+  DSBA_G1_OUTPUT.zip: https://github.com/PeterBaraka/ml_fieldwork_lab/blob/main/DSBA_G1_OUTPUT.zip
 ```
