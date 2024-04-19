@@ -1,5 +1,7 @@
 # Machine Learning Fieldwork Project: Segmentation
 
+Customer Segmentation of European food retail chain data
+
 ## Setup Locally
 
 Clone the project
